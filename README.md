@@ -1,5 +1,7 @@
 # DevOps Docker CI Exemplo
 
+[![CI](https://github.com/julioccamargo/docker-ci-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/julioccamargo/docker-ci-demo/actions/workflows/ci.yml)
+
 Projeto demo com foco em práticas DevOps usando Docker, Docker Compose e GitHub Actions.
 
 ## Tecnologias
