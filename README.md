@@ -13,3 +13,8 @@ Projeto demo com foco em práticas DevOps usando Docker, Docker Compose e GitHub
 docker compose up
 
 Acesse: http://localhost:8000
+```
+
+## Healthcheck
+
+A aplicação expõe um healthcheck HTTP na rota raiz (`/`), utilizado pelo Docker para verificar a saúde do container.
